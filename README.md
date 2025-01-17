@@ -1,1 +1,3 @@
-# Day2-Task-17jan
+# Day2-Task-17 January 2025, Thursday
+
+"Welcome to "Sofa Decor", your one-stop destination for stylish, comfortable, and durable sofas. Whether you're looking to upgrade your living space with modern designs, classic elegance, or cozy functionality, we offer a wide range of sofas to match your taste and lifestyle. Explore our collection of premium materials, customizable options, and smart features that bring both comfort and sophistication to your home. At Sofa Decor, we prioritize quality and customer satisfaction, ensuring you find the perfect sofa to create unforgettable moments with family and friends." 
