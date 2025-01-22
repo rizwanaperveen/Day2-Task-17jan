@@ -1,40 +1,36 @@
-# Day2-Task-17 January 2025, Thursday
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-"Welcome to "Sofa Decor", your one-stop destination for stylish, comfortable, and durable sofas. Whether you're looking to upgrade your living space with modern designs, classic elegance, or cozy functionality, we offer a wide range of sofas to match your taste and lifestyle. Explore our collection of premium materials, customizable options, and smart features that bring both comfort and sophistication to your home. At Sofa Decor, we prioritize quality and customer satisfaction, ensuring you find the perfect sofa to create unforgettable moments with family and friends." 
+## Getting Started
 
-1- System Architecture:
+First, run the development server:
 
-Frontend: Developed with Next.js for responsiveness, dynamic interactions, and SEO optimization. 💻
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-Backend: Powered entirely by Sanity CMS, ensuring real-time data updates and scalability. 🔧
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-Third-Party APIs: Integrated APIs for shipment tracking, payment gateways, and other essential backend services. These APIs ensure seamless data flow, enabling real-time order tracking, secure payment processing, and efficient functionality. 🌐
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
+This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
+## Learn More
 
-2- Workflows:
+To learn more about Next.js, take a look at the following resources:
 
-Smooth product browsing with user-friendly filtering options. 🛒
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-Streamlined checkout experience with secure payment handling. 💳
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-Real-time order tracking and notifications for customer convenience. 📦
+## Deploy on Vercel
 
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-
-3- API Requirements:
-
-1) Fetch Products: Retrieve product details from Sanity CMS. 📑
-
-2) Create Order: Enable customers to place orders with all necessary details and payment status. 📝
-
-3) Track Shipment: Provide real-time delivery updates via third-party APIs. 🚚
-
-3) Add New Products: Allow admins to expand the catalog with detailed product information. ➕
-
-4) Fetch Customer Details: Retrieve user-specific data for personalized experiences. 👤
-
-5) Update Order Status: Modify order statuses to keep customers informed. 
-
-This plan ensures that Sofa Decor delivers a seamless and enjoyable shopping experience while maintaining scalability and efficiency. 💼
-
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
